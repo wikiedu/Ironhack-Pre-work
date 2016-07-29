@@ -1,0 +1,7 @@
+MacBook-Pro-de-ToshiMac:Ruby toshimac$ ruby exercise.rb
+Whats is the source file ?
+source2.txt
+What is the destination file?
+copy_a_file.txt
+MacBook-Pro-de-ToshiMac:Ruby toshimac$ open copy_a_file.txt
+MacBook-Pro-de-ToshiMac:Ruby toshimac$ 

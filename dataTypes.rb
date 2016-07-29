@@ -12,3 +12,4 @@ flavours_array = flavours.split(', ')
 phrase = 'Just kidding, you’re awesome too'
 phrase.include? 'aw'
 
+3.times { puts 'beetlejuice' }
