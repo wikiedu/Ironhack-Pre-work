@@ -1,0 +1,61 @@
+body {
+  background-color: grey;
+  font-family: "Raleway";
+}
+
+p {
+  background-color: grey;
+  font-family: "Baskerville";
+}
+
+.niceParagraph, span {
+  background-color: blue;
+  font-family: "Baskerville";
+}
+
+#finalParagraph {
+  background-color: red;
+  font-family: "Baskerville";
+}
+
+header h1 {
+	text-align: center;
+}
+
+.section1 {
+	background-color: blue
+}
+
+.section2 {
+	background-color: red
+}
+
+.section3 {
+	background-color: white
+}
+
+.section4 {
+	background-color: green
+}
+
+footer {
+  background-color: #444444;
+  padding: 30px 10px;
+  border-top: 5px solid white;
+  color: white;
+  font-size: 10px;
+  font-style: italic;
+  width: 100%;
+}
+
+.articleContainer {
+  background-color: #FFFFFF;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+.postAuthor {
+  font-size: 20px;
+}
